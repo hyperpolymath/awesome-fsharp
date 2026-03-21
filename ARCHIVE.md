@@ -36,6 +36,9 @@ This is a storage of links that were removed from the main list.
 - [Data programming with F#](https://www.udemy.com/course/data-programming-with-f/)
 - [Introduction to F#](https://fsharp.tv/courses/fsharp-programming-intro/)
 
+### Other Lists
+- [FSharpest](https://www.fsharpest.xyz) - A directory to discover F# tools, libraries and resources.
+
 ### Podcasts
 - [WTF#](https://wtfsharp.net) - Podcast focused on F# and its ecosystem.
 
