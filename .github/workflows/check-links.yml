@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 ﻿name: Dead Link Checker
 
 on:
@@ -9,11 +10,14 @@ on:
     - cron: '0 0 * * 6' # Every Saturday
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 9.x
