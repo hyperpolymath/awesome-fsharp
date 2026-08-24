@@ -1,0 +1,97 @@
+== Awesome F# Archive
+
+This is a storage of links that were removed from the main list.
+
+=== .NET Core Templates
+
+* https://freya.io[Freya] - `+dotnet new --install Freya.Template::*+`
+* https://github.com/vbfox/FSharpTemplates[vbfox’s F# Templates] - F#
+Template for creating GitHub project with appveyor and travis support.
+
+=== Actor Frameworks
+
+* https://github.com/fsprojects/Cricket[Cricket] - Actor framework for
+F#.
+
+=== Concurrent, Asynchronous, and Parallel Programming
+
+* https://github.com/giraffe-fsharp/giraffe.tasks[Giraffe.Tasks] - Task
+computation expression to work natively with .NET’s Tasks from an F#
+application.
+
+=== Compilers for Other Platforms
+
+* https://github.com/ninjarobot/Pengines.Client[Pengines.Client] -
+Sandboxed Prolog environment.
+
+=== Courses
+
+* http://www.fsharpworkshop.com/[F# workshop]
+
+=== Data Science
+
+* http://www.deepml.net[Deep.Net] - Deep learning library for F#.
+Provides symbolic model differentiation, automatic differentiation and
+compilation to CUDA GPUs.
+
+=== Development Tools
+
+==== Editor Plugins
+
+* https://github.com/fsharp/fsharpbinding[F# Bindings] - Archive of F#
+Language Bindings for Open Editors.
+* https://github.com/fsprojects/VisualFSharpPowerTools[Visual F# Power
+Tools] - Power commands for F# in Visual Studio.
+
+=== Resources
+
+==== Community
+
+* http://webchat.freenode.net/?channels=%23%23fsharp[F# on IRC]
+
+==== Courses
+
+* https://www.udemy.com/course/data-programming-with-f/[Data programming
+with F#]
+* https://fsharp.tv/courses/fsharp-programming-intro/[Introduction to
+F#]
+
+==== Other Lists
+
+* https://www.fsharpest.xyz[FSharpest] - A directory to discover F#
+tools, libraries and resources.
+
+==== Podcasts
+
+* https://wtfsharp.net[WTF#] - Podcast focused on F# and its ecosystem.
+
+==== Websites
+
+* http://fsharp.github.io/[F# Core Engineering]
+
+=== Search
+
+* https://github.com/flexsearch/flexsearch[FlexSearch] - High
+performance REST/SOAP services based full-text searching platform built
+on top of the popular Lucene search library.
+
+=== Type Providers
+
+* https://github.com/fsprojects/ApiaryProvider[ApiaryProvider] - Type
+provider for Apiary.io.
+* https://github.com/fsprojects/FSharp.Interop.ComProvider[COM Type
+Provider] - Type provider for COM interop.
+* https://github.com/fsprojects/FSharp.Data.DbPedia[FSharp.Data.DbPedia]
+- F# type provider for DBpedia.
+* https://github.com/fsprojects/FSharp.Data.HiveProvider[FSharp.Data.HiveProvider]
+- Demonstrator F# type provider for Apache Hive.
+
+=== Creating Type Providers
+
+* https://github.com/fsprojects/RestProvider[RestProvider] - Create type
+providers just by implementing a simple REST service.
+
+=== Web Frameworks
+
+* https://github.com/xyncro/freya[Freya] - Modern, purely functional
+stack for web programming in F#.
